@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Feb 12 assignment</string>
+    <string-array name="myarray">
+        <item>www.google.com</item>
+        <item>www.ducatindia.com</item>
+        <item>www.youtube.com</item>
+        <item>www.facebook.com</item>
+        <item>www.twitter.com</item>
+    </string-array>
+</resources>
